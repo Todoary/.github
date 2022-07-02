@@ -1,12 +1,5 @@
-## Hi there 👋
+## Contributors
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+|                                                                               PM & IOS                                                                                |                                                                               Android                                                                               |                                                                          Android                                                                          |                                                                                 IOS                                                                                 |IOS|
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<img src="https://avatars.githubusercontent.com/u/100466546?v=4" alt="" style="width:100px;100px;">](https://github.com/yooyeri) <br/><div align="center">유예리</div> | [<img src="https://avatars.githubusercontent.com/u/72616557?v=4" alt="" style="width:100px;100px;">](https://github.com/hyuns66) <br/><div align="center">정현석</div> | [<img src="https://avatars.githubusercontent.com/u/69844138?v=4" alt="" style="width:100px;100px;">](https://github.com/Ji-soo708) <br/><div align="center">임지수</div> | [<img src="https://avatars.githubusercontent.com/u/77428876?v=4" alt="" style="width:100px;100px;">](https://github.com/chaeyoung103) <br/><div align="center">송채영</div>  |[<img src="https://avatars.githubusercontent.com/u/65206829?v=4" alt="" style="width:100px;100px;">](https://github.com/dev-muuu) <br/><div align="center">박소윤</div>  |
